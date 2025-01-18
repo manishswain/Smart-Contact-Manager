@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ## Application specific files
-*.properties
+/src/main/resources/application-dev.properties
 
 #Node Modules
 node_modules
