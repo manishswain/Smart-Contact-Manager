@@ -32,8 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-## Application specific files
-/src/main/resources/application-dev.properties
 
 #Node Modules
 node_modules
+src/main/resources/application.properties
